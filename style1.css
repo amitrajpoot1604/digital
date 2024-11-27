@@ -1,0 +1,201 @@
+* {
+    margin: 0px;
+
+}
+
+.navbar {
+    height: 30px;
+    width: 100%;
+
+    background-color: blue;
+}
+
+.num {
+    text-decoration: none;
+    color: white
+}
+
+.icon {
+    margin-left: 1000px;
+    margin-top: -15px;
+    display: flex;
+    color: white;
+}
+.drop{
+    margin-top: -50px;
+    margin-left:  350px;
+
+    width: fit-content;
+    display: flex;
+}
+.img2{
+margin-top: 30px;
+
+}
+.form-container{
+margin-top: 80px;
+    margin-left: 250px;
+      height: 320px;
+       width: 450px;        
+background-color: #fff;
+padding: 20px;
+border-radius: 8px;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+width: 300px;
+}
+
+.form-container h2 {
+text-align: center;
+margin-bottom: 20px;
+}
+
+form input, form textarea {
+width: 100%;
+padding: 10px;
+margin: 10px 0;
+border: 1px solid #ccc;
+border-radius: 5px;
+box-sizing: border-box;
+}
+
+form input:focus, form textarea:focus {
+border-color: #007bff;
+outline: none;
+}
+
+form button {
+width: 100%;
+padding: 10px;
+background-color: #007bff;
+color: #fff;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+font-size: 16px;
+}
+
+form button:hover {
+background-color: #0056b3;
+}
+.form-container1{
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+border-radius: 8px;
+margin-top: -400px;
+margin-left: 700px;
+}
+.phone{
+margin-left: 40px;
+margin-top: 40px;
+
+}
+.num{
+margin-left: 50px;
+margin-top: 50px;
+}
+.address{
+margin-left: 200px;
+margin-top: -100px;
+
+}
+.email{
+margin-left: 550px;
+margin-top: -80px;
+
+}
+.parent{
+margin-top: 15px;
+    height: 500px;
+    width: 100%;
+    display: flex;
+    justify-content:space-evenly;
+    background-color:  rgba(0, 0, 255, 0.747);
+
+}
+.p1{
+  height: 400px;
+  width: 300px;
+  margin-top: 30px;
+  background-color:  rgba(0, 0, 255,0.1);
+}
+.list {
+
+    list-style-type: none;
+    background-color:  rgba(0, 0, 255, 0.1);
+    color: white;
+    font-size: large
+
+
+
+}
+.list1{
+   color: white;
+   margin: 20px;
+}
+.p1 ul li{
+    line-height: 40px;
+}
+.p1 ul li:hover{
+text-decoration: underline;
+}
+.form-container2{
+margin-top: 50px;
+    margin-left: 110px;
+      height: 320px;
+       width: 450px;        
+padding: 20px;
+border-radius: 8px;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+width: 300px;
+}
+
+.form-container2 h2 {
+text-align: center;
+margin-bottom: 20px;
+}
+
+form input, form textarea{
+width: 100%;
+padding: 10px;
+margin: 10px 0;
+
+border-radius: 5px;
+box-sizing: border-box;
+}
+
+form input:focus, form textarea:focus {
+border-color: #007bff;
+outline: none;
+}
+
+form button {
+width: 100%;
+padding: 10px;
+background-color: #007bff;
+color: #fff;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+font-size: 16px;
+}
+
+form button:hover {
+background-color: #0056b3;
+}
+.color{
+color: white;
+}
+.logo{
+background-color: rgba(0, 0, 255, 0.747); ;
+height: 150px;
+width: 100%;
+margin-top: 60px;
+}
+.loc{ color: white;
+margin-top: -50px;
+margin-left: 600px;
+}
+.email1{
+color: white;
+margin-top: -20px;
+margin-left: 950px;
+}
